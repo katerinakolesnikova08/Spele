@@ -1,0 +1,107 @@
+
+v1.0
+Speles apraksts:
+
+Apakšā ir 7 kvadrāti (kastes) centrā zvaigzne.
+Virsū bumba. Centrā ir daudz punktu (bumbas šķērslis).
+Spēles mērķis ir iekļūt bumbiņā kastē ar zvaigzni. Pirms spēles sākuma jums ir jāmet kauliņš un cik daudz mēģinājumu parādīs.
+Stundā jūs varat mest kubu ne vairāk kā 5 reizes. Ja bumba nonāk kastē ar zvaigzni, Spēlētājs saņem 100 punktus.
+Ja citās kastēs, tad 1.
+
+Prasību specifikācija:
+
+Funkcionālie:
+Spēlētajs reģistrējās
+Meta kauliņu
+Meta bumbiņu
+Laimē punktus
+Nelaimē punktus
+
+Nefunkcionālie: 
+Valoda
+Drošība
+Ātrums
+
+Testpiemēra kopa:
+
+Bumba mētas
+Kauliņš mētas
+Kauliņa cipars ir vienāds ar meģinājumu skaitu
+Kastes dod pareizu punktu skaitu
+Ir pareizs mēģinājumu daudzums vienā stundā
+
+
+v2.0
+
+Spēles apraksts:
+
+Apakšā ir 7 kvadrāti (kastes) centrā zvaigzne.
+Virsū bumba. Centrā ir daudz punktu (bumbas šķērslis).
+Spēles mērķis ir iekļūt bumbiņā kastē ar zvaigzni. Pirms spēles sākuma jums ir jāmet kauliņš un cik daudz mēģinājumu parādīs.
+Stundā jūs varat mest kubu ne vairāk kā 5 reizes. Ja bumba nonāk kastē ar zvaigzni, Spēlētājs saņem 100 punktus.
+Ja citās kastēs, tad 1. Ja meģinājumi ir beigusies, spēlētajs var paskatīties video/ reklāmu un saņemt vēl vienu meģinājumu.
+
+Prasību specifikācija:
+
+Funkcionālie:
+Spēlētajs reģistrējās
+Meta kauliņu
+Meta bumbiņu
+Laimē punktus
+Nelaimē punktus
+Skatās video
+
+Nefunkcionālie: 
+Valoda
+Drošība
+Ātrums
+Video strada
+
+Testpiemēra kopa:
+
+Bumba mētas
+Kauliņš mētas
+Kauliņa cipars ir vienāds ar meģinājumu skaitu
+Kastes dod pareizu punktu skaitu
+Ir pareizs mēģinājumu daudzums vienā stundā
+Video strāda
+Pēc video skatīšanas dod pareizo punktu daudzumu
+
+v3.0
+
+Spēles apraksts:
+
+Apakšā ir 7 kvadrāti (kastes) centrā zvaigzne.
+Virsū bumba. Centrā ir daudz punktu (bumbas šķērslis).
+Spēles mērķis ir iekļūt bumbiņā kastē ar zvaigzni. Pirms spēles sākuma jums ir jāmet kauliņš un cik daudz mēģinājumu parādīs.
+Stundā jūs varat mest kubu ne vairāk kā 5 reizes. Ja bumba nonāk kastē ar zvaigzni, Spēlētājs saņem 100 punktus.
+Ja citās kastēs, tad 1. Ja meģinājumi ir beigusies, spēlētajs var paskatīties video/ reklāmu un saņemt vēl vienu meģinājumu.
+Bumba nokļūstot kastē ar zvaigzni, iepriekš iegūtie punkti dubultējas.
+
+Prasību specifikācija:
+
+Funkcionālie:
+Spēlētajs reģistrējās
+Meta kauliņu
+Meta bumbiņu
+Laimē punktus
+Nelaimē punktus
+Skatās video
+
+Nefunkcionālie: 
+Animācija
+Valoda
+Drošība
+Ātrums
+Video strada
+
+Testpiemēra kopa:
+
+Bumba mētas
+Kauliņš mētas
+Kauliņa cipars ir vienāds ar meģinājumu skaitu
+Kastes dod pareizu punktu skaitu
+Ir pareizs mēģinājumu daudzums vienā stundā
+Video strāda
+Pēc video skatīšanas dod pareizo punktu daudzumu
+Kaste ar zvaigzni pareizi reizina un dod punktus.
